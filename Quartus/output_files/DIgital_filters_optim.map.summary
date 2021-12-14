@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Dec 09 16:15:55 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : DIgital_filters_optim
+Top-level Entity Name : top
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 987
+Total pins : 105
+Total virtual pins : 0
+Total block memory bits : 768
+Total DSP Blocks : 30
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

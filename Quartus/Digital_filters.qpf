@@ -18,13 +18,16 @@
 #
 # Quartus Prime
 # Version 17.1.0 Build 590 10/25/2017 SJ Standard Edition
-# Date created = 17:45:54  September 18, 2021
+# Date created = 17:26:39  December 09, 2021
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "17.1"
-DATE = "17:45:54  September 18, 2021"
+DATE = "17:26:39  December 09, 2021"
 
 # Revisions
 
 PROJECT_REVISION = "Digital_filters"
+PROJECT_REVISION = "Digital_filters_migr"
+PROJECT_REVISION = "DIgital_filters_optim"
+PROJECT_REVISION = "Digital_filters_optim_resource"

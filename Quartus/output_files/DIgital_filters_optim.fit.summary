@@ -1,0 +1,20 @@
+Fitter Status : Failed - Thu Dec 09 16:16:31 2021
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : DIgital_filters_optim
+Top-level Entity Name : top
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 822 / 41,910 ( 2 % )
+Total registers : 987
+Total pins : 105 / 314 ( 33 % )
+Total virtual pins : 0
+Total block memory bits : 768 / 5,662,720 ( < 1 % )
+Total RAM Blocks : 0 / 553 ( 0 % )
+Total DSP Blocks : 30 / 112 ( 27 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,58 @@
+`timescale 1us / 1ps
+module tb;
+
+    parameter       INPUT_DATA_WIDTH  = 16;
+    parameter       OUTPUT_DATA_WIDTH = 32;
+	
+	localparam PHASE_50KHz = 4294967;
+	localparam PHASE_200KHz = 17179869;
+
+	logic signed [INPUT_DATA_WIDTH - 2 : 0] sine_50KHz, sine_200KHz;
+	logic signed [INPUT_DATA_WIDTH - 1 : 0] sine_adder;
+    logic signed [OUTPUT_DATA_WIDTH - 1 : 0] o_data; 
+    logic i_clk, i_reset;
+	
+	nco15bit nco_50kHz(
+		.clk(i_clk),      			// clk.clk
+		.clken(1'b1),     			//  in.clken
+		.phi_inc_i(429496730),   //    .phi_inc_i
+		.fsin_o(sine_50KHz),			// out.fsin_o
+		.out_valid(), 					//    .out_valid
+		.reset_n(i_reset)    		// rst.reset_n
+	);
+	
+	nco15bit nco_200kHz(
+		.clk(i_clk),      			// clk.clk
+		.clken(1'b1),     			//  in.clken
+		.phi_inc_i(1717986918),  //    .phi_inc_i
+		.fsin_o(sine_200KHz),      // out.fsin_o
+		.out_valid(), 					//    .out_valid
+		.reset_n(i_reset)    	   // rst.reset_n
+	);
+	
+	
+	assign sine_adder = sine_50KHz + sine_200KHz;
+	
+
+
+    FIR_filter fir (
+		.i_clk(i_clk), 
+		.i_reset(i_reset),
+    	.i_filter_en(1'b1),
+    	.i_fir_data(sine_adder),
+    	.o_fir_data(o_data)
+	 );
+
+    initial begin
+		i_clk = 0;
+        forever #1 i_clk = ~i_clk;
+	    $finish;
+    end
+	 
+    initial begin
+        i_reset = 1'b0;
+        #10;
+        i_reset = 1'b1;
+    end
+
+endmodule

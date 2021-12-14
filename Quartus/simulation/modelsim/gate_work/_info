@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/simulation/modelsim
+vFIR_filter
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1635976789
+!i10b 1
+!s100 GDj:k@D[khKlcf^U[jOf53
+ICd11F8^j;_Q1[YzW6jE;H3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Digital_filters_svo_unit
+S1
+R0
+w1635976785
+8Digital_filters.svo
+FDigital_filters.svo
+L0 31
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1635976789.000000
+!s107 Digital_filters.svo|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+.|Digital_filters.svo|
+!i113 1
+Z4 o-sv -work work
+!s92 -sv -work work +incdir+.
+Z5 tCvgOpt 0
+n@f@i@r_filter
+vtb
+R1
+!s110 1635976790
+!i10b 1
+!s100 B^N?82BaLEAK;CYdNjBc^0
+IX>m3:Lnz>LT`:Ne`OKSVk2
+R2
+!s105 tb_sv_unit
+S1
+R0
+w1635975163
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/tb.sv
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/tb.sv
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1635976790.000000
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/tb.sv|
+!i113 1
+R4
+!s92 -sv -work work +incdir+D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus
+R5
