@@ -1,5 +1,5 @@
 Info: Start Nativelink Simulation process
-executing command line: ip-make-simscript --nativelink-mode --output-directory=Digital_filters_iputf_input --spd=D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/nco15bit.spd 
+executing command line: ip-make-simscript --nativelink-mode --output-directory=Digital_filters_iputf_input --spd=D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/nco11bit.spd 
 
 ========= EDA Simulation Settings =====================
 

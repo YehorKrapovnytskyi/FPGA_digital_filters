@@ -8,192 +8,213 @@ z2
 !i10f 100
 cModel Technology
 Z0 dD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/simulation/modelsim
-vYtuEHtWFtnNWHvSS7gDhvA==
-Z1 !s110 1636727840
+v673sN+4kJVDfW4DSdf772A==
+Z1 !s110 1639579855
 !i10b 0
 !s100 J^Y>K7J3Zf3T97WF<E;RH0
-IM60hf0O:f=IS0P2UFhgGD3
+IQW02[23:3AVAVS;GNAQ:M3
 Z2 VDg1SIo80bB@j0V0VzS_@n1
-!i8a 1065904656
+!i8a 1254117216
 R0
-w1636727840
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_altqmcpipe.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_altqmcpipe.v
+w1639579855
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_altqmcpipe.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_altqmcpipe.v
 Z3 L0 38
 Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1636727839.000000
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_altqmcpipe.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_altqmcpipe.v|-work|nco_ii_0|
+Z5 !s108 1639579854.000000
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_altqmcpipe.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_altqmcpipe.v|-work|nco_ii_0|
 !i113 1
 Z6 o-work nco_ii_0
 Z7 tCvgOpt 0
 ne3ff555
-v6WYv4VJiayy5lxF5kuqtcA==
-Z8 !s110 1636727839
+vvf218MGiYyQAEMuaASpajg==
+Z8 !s110 1639579854
 !i10b 0
 !s100 [KYP4kGZDd6g^@WNSjEBm2
-Ian[f:XAFWJ4d6I[f]DKoI0
+Iz;K6o_RG^=CC88eV;M=V91
 R2
-!i8a 1468459440
+!i8a 786963952
 R0
-Z9 w1636727839
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx.v
+Z9 w1639579854
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx.v
 R3
 R4
 r1
 !s85 0
 31
-Z10 !s108 1636727838.000000
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx.v|-work|nco_ii_0|
+Z10 !s108 1639579853.000000
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 n8a05b98
-v9Dlwz/h+bwLf7bXxa5aPDg==
-Z11 !s110 1636727838
+vwvDig5Yrae+HTBFmBefQJg==
+Z11 !s110 1639579853
 !i10b 0
 !s100 oj<XKHMlTK<[T;4KHlbef1
-I>lo:AY6QPjSVJOn_1zc]93
+I`JQEWcoOOQCn<N3Plbz`71
 R2
-!i8a 1698272800
+!i8a 1434225744
 R0
-Z12 w1636727838
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx_g.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx_g.v
+Z12 w1639579853
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx_g.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx_g.v
 R3
 R4
 r1
 !s85 0
 31
 R10
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx_g.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_dxx_g.v|-work|nco_ii_0|
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx_g.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_dxx_g.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 n5b96f7
-vteGIjLlNlz4G22A6K91cxw==
+vOS9o4qk1MsdmOyZ/bHgYRQ==
 R8
 !i10b 0
 !s100 b;QPdVK1>oi`JDHN;A7z33
-IQVYo^dB>3zfjaHM2TXXi63
+IRF:aCZ0TCAXokK]>zE3Co3
 R2
-!i8a 1660620464
+!i8a 1431158736
 R0
 R9
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_gal.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_gal.v
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_gal.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_gal.v
 R3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_gal.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_gal.v|-work|nco_ii_0|
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_gal.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_gal.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 n8a05d1c
-v9jDavQYP333TJm4U/Mifew==
+vWnNp8kO0iu8G7wjgx0Hihw==
 R11
 !i10b 0
 !s100 onReWXU4TGiE=QkGJeThN1
-I90PO45>k`<91:K15[h=bb2
+IjFA4WdzHT^fW8?;zfIh`M0
 R2
-!i8a 1722545856
+!i8a 761478544
 R0
 R12
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_apr_dxx.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_apr_dxx.v
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_apr_dxx.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_apr_dxx.v
 R3
 R4
 r1
 !s85 0
 31
 R10
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_apr_dxx.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_apr_dxx.v|-work|nco_ii_0|
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_apr_dxx.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_apr_dxx.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 n8135608
-vB9grWYMnGaP0D1Z10INDELD5UT0VB85KbNmHJ0L8kKk=
+vJ1fnxKcM9scYPAdQGd3ZKafYIHP46khm6faOhqkuWso=
 R8
 !i10b 0
 !s100 TTR7^l6W?C`JE^gng8G1F1
-I:7NZOkQ>l7z5BN[k@<81A0
+IE=onN[z_[C4jYXc2ci=P90
 R2
-!i8a 2018207696
+!i8a 1553498416
 R0
 R9
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_as_m_cen.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_as_m_cen.v
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_as_m_cen.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_as_m_cen.v
 R3
 R4
 r1
 !s85 0
 31
 R5
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_as_m_cen.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_as_m_cen.v|-work|nco_ii_0|
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_as_m_cen.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_as_m_cen.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 nf13863e
-vC2cRQCHp1I/tSlp9sJfIbg==
+vbTSSp9CE3sn90VH8rF3OLg==
 R11
 !i10b 0
 !s100 MT4o@nFI74FkN4`<]Qmk71
-IEJh@PL>0jo^nPlkI4>3Ua2
+I`cA_`UJ1Sg7lX[c>N9i^o2
 R2
-!i8a 446905680
+!i8a 800286928
 R0
 R12
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_isdr.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_isdr.v
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_isdr.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_isdr.v
 R3
 R4
 r1
 !s85 0
 31
-Z13 !s108 1636727837.000000
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_isdr.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_isdr.v|-work|nco_ii_0|
+Z13 !s108 1639579852.000000
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_isdr.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_isdr.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 ne00fe2
-voY0uFIsJDKJROnmxvJP6HQ==
-!s110 1636727837
+vYnGx5RVaOSkklPAdHmunUw==
+!s110 1639579852
 !i10b 0
 !s100 3_XbFABceeSWMc[XhdjUi0
-IUSPAd@@oilXYF^T1iNX5N1
+Ilo42H;H20fd29^7J9[kW=2
 R2
-!i8a 1529851008
+!i8a 631167808
 R0
-w1636727837
-8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_mob_rw.v
-FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_mob_rw.v
+w1639579852
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_mob_rw.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_mob_rw.v
 R3
 R4
 r1
 !s85 0
 31
 R13
-!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_mob_rw.v|
-!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/mentor/asj_nco_mob_rw.v|-work|nco_ii_0|
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_mob_rw.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/mentor/asj_nco_mob_rw.v|-work|nco_ii_0|
 !i113 1
 R6
 R7
 n433677
-vnco15bit_nco_ii_0
+vnco11bit_nco_ii_0
 R1
+!i10b 1
+!s100 9[WA^>F7;3hKfF3>[^<b51
+IAib9W[DL8jV;zo^D4fQ`S0
+R2
+R0
+w1639579522
+8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/nco11bit_nco_ii_0.v
+FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/nco11bit_nco_ii_0.v
+Z14 L0 23
+R4
+r1
+!s85 0
+31
+!s108 1639579855.000000
+!s107 D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/nco11bit_nco_ii_0.v|
+!s90 -reportprogress|300|D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco11bit/simulation/submodules/nco11bit_nco_ii_0.v|-work|nco_ii_0|
+!i113 1
+R6
+R7
+vnco15bit_nco_ii_0
+!s110 1636727840
 !i10b 1
 !s100 QJQ9lPKFDO@8?8XcQ4M_Y0
 I]d_jfY1?AO=DA0^W<T@aF0
@@ -202,7 +223,7 @@ R0
 w1635982261
 8D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/nco15bit_nco_ii_0.v
 FD:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/nco15bit/simulation/submodules/nco15bit_nco_ii_0.v
-L0 23
+R14
 R4
 r1
 !s85 0

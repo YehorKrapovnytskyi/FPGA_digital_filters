@@ -1,9 +1,9 @@
 `timescale 1us / 1ps
 module tb;
 
-    parameter       INPUT_DATA_WIDTH  = 16;
-    parameter       OUTPUT_DATA_WIDTH = 32;
-	parameter       CIC_DATA_WIDTH = 24;
+    parameter  INPUT_DATA_WIDTH  = 12;
+    parameter  OUTPUT_DATA_WIDTH = 28;
+	parameter  CIC_DATA_WIDTH = 20;
     
 	localparam PHASE_10KHz = 85899346;
 	localparam PHASE_60KHz = 515396076;
@@ -14,7 +14,7 @@ module tb;
     logic signed [CIC_DATA_WIDTH - 1 : 0]    o_data_cic; 
     logic i_clk, i_reset;
 	
-	nco15bit nco_10kHz(
+	nco11bit nco_10kHz(
 		.clk(i_clk),      			// clk.clk
 		.clken(1'b1),     			//  in.clken
 		.phi_inc_i(PHASE_10KHz),    //    .phi_inc_i
@@ -23,7 +23,7 @@ module tb;
 		.reset_n(i_reset)    		// rst.reset_n
 	);
 	
-	nco15bit nco_60kHz(
+	nco11bit nco_60kHz(
 		.clk(i_clk),      			// clk.clk
 		.clken(1'b1),     			//  in.clken
 		.phi_inc_i(PHASE_60KHz),  //    .phi_inc_i
@@ -57,8 +57,8 @@ module tb;
         .i_clk(i_clk),
         .i_clk_enable(1'b1),
         .i_reset(i_reset),
-        .i_filter_data(sine_adder),
-        .o_filter_data(o_data_iir)
+        .i_iir_data(sine_adder),
+        .o_iir_data(o_data_iir)
      );
      
 

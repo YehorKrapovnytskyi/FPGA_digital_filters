@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at ltc_2308.sv(86): always construct contains both blocking and non-blocking assignments File: D:/Yehor/FPGA_Development/FPGA_digital_filters/Quartus/src/models/ltc_2308.sv Line: 86

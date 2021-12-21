@@ -4,315 +4,87 @@
 			"name" : "Top",
 			"pins" : [
 				{
-					"name" : "o_data_fir[0]",
+					"name" : "o_measure_done",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[1]",
+					"name" : "o_measure_data[0]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[2]",
+					"name" : "o_measure_data[1]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[3]",
+					"name" : "o_measure_data[2]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[4]",
+					"name" : "o_measure_data[3]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[5]",
+					"name" : "o_measure_data[4]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[6]",
+					"name" : "o_measure_data[5]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[7]",
+					"name" : "o_measure_data[6]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[8]",
+					"name" : "o_measure_data[7]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[9]",
+					"name" : "o_measure_data[8]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[10]",
+					"name" : "o_measure_data[9]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[11]",
+					"name" : "o_measure_data[10]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[12]",
+					"name" : "o_measure_data[11]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[13]",
+					"name" : "ADC_CONVST",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[14]",
+					"name" : "ADC_SCK",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[15]",
+					"name" : "ADC_SDI",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[16]",
+					"name" : "i_clk",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[17]",
+					"name" : "i_reset",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[18]",
+					"name" : "i_measure_ch[2]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[19]",
+					"name" : "i_measure_ch[0]",
 					"strict" : false
 				},
 				{
-					"name" : "o_data_fir[20]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[21]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[22]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[23]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[24]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[25]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[26]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_fir[27]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[0]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[1]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[2]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[3]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[4]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[5]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[6]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[7]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[8]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[9]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[10]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[11]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[12]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[13]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[14]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[15]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[16]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[17]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[18]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[19]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[20]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[21]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[22]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[23]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[24]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[25]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[26]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_iir[27]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[0]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[1]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[2]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[3]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[4]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[5]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[6]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[7]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[8]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[9]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[10]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[11]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[12]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[13]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[14]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[15]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[16]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[17]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[18]",
-					"strict" : false
-				},
-				{
-					"name" : "o_data_cic[19]",
-					"strict" : false
-				},
-				{
-					"name" : "FPGA_CLK1_50",
-					"strict" : false
-				},
-				{
-					"name" : "SW[0]",
+					"name" : "i_measure_ch[1]",
 					"strict" : false
 				},
 				{

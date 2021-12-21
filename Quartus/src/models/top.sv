@@ -1,7 +1,7 @@
 module top(FPGA_CLK1_50, SW, ADC_CONVST, ADC_SCK, ADC_SDI, ADC_SDO, ARDUINO_IO, o_data_fir, o_data_iir, o_data_cic);
 
     
-    parameter  INPUT_DATA_WIDTH  = 16;
+    parameter  INPUT_DATA_WIDTH  = 12;
     parameter  OUTPUT_DATA_WIDTH = 28;
 	parameter  CIC_DATA_WIDTH = 20;
     
