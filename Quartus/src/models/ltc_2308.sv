@@ -111,7 +111,7 @@ module ltc_2308 (i_clk,
     
     // read data sequence definition
     
-    always @ (negedge i_clk, negedge i_reset) begin // posedge??
+    always @ (negedge i_clk, negedge i_reset) begin 
         if (~i_reset) begin
             read_data <= 0;
             write_pos <= DATA_BITS_NUM-1;
